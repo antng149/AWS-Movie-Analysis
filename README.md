@@ -1,1 +1,13 @@
 # AWS-Movie-Analysis
+
+PROJECT 02 - Analyzing IMDB Datasets
+
+In this project, we will analyze a subset of IMDB?s actors, genres, movie actors, and movie rating data. This dataset comes to us from Kaggle (https://(https://www.kaggle.com/datasets/ashirwadsangwan/imdb-dataset) . 
+
+The project includes 4 Parts along with an extra credit segment. 
+
+* Part I: Installation and Initial Setup
+* Part II: Analyzing Genres
+* Part III: Analyzing Job Categories
+* Part IV: Answer Questions
+* Extra credit: Analysis of Your Choice 
